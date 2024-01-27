@@ -1,7 +1,7 @@
 
 # My Machine Learning Journey and Projects
 
-Welcome to my repository where I document my journey in the fascinating world of Machine Learning (ML). This repository is both a personal log of my learning progress as a part CSET211 course at my uni and a showcase of the projects I have undertaken. Here, you will find a mix of theoretical concepts, practical implementations, and personal insights that I have gathered along my ML journey.
+Welcome to my repository where I document my journey in the fascinating world of Machine Learning (ML). This repository is both a personal log of my learning progress as a part CSET211 and CSET301 course at my uni and a showcase of the projects I have undertaken. Here, you will find a mix of theoretical concepts, practical implementations, and personal insights that I have gathered along my ML journey.
 
 ## How to Navigate
 
